@@ -1,12 +1,19 @@
-# Paleo-Hebrew-Heebo-Font
-Ancient / Paleo Hebrew font
+# Robo-PaleoHeb
+## Ancient / Paleo Hebrew font
 
-[Paleo Hebrew](https://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet) is an old Hebrew language, still exists on the 1 New Shekel coin, you will find the letters [JHD](https://he.wikipedia.org/wiki/יהוד_מדינתא_(מטבע))(יהד) which addressed to Jahoda(יהודה) kingdom.
+[Paleo Hebrew](https://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet) is an ancient Hebrew script.  
 
-Thanks to Dr. Kris J. Udd I was able to take the Paleo Hebrew characters he made from [here](http://www.bibleplaces.com/paleo_hebrew_fonts/), merge them with Meir Sadan [Heebo](https://github.com/meirsadan/heebo) font and make a Paleo-Hebrew chars spread on modern Hebrew keyboard font.
+Can still be seen today in historical references, e.g. the 1 New Shekel coin, have the letters [JHD](https://he.wikipedia.org/wiki/יהוד_מדינתא_(מטבע))(יהד) printed on it, which addressed to Jahoda(יהודה) kingdom.  
 
-Enjoy!
+[Dr. Kris J. Udd](https://graceu.academia.edu/KUdd/) made the original font, I placed the keys differently.  
+Approved by the creator new versions are under Apache License 2.0  
 
-פונט עברית קדומה חינמי וחופשי
+I made two copies:  
+- A vanilla paleo script to easily merge with other fonts
+- A merged version together with Roboto
+
+Enjoy!  
+
+  פונט עברית קדומה חינמי וחופשי
 
 ![](Images/Screenshot%20from%202017-08-06%2013-37-00.png)
